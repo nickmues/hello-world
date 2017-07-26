@@ -1,2 +1,5 @@
 # hello-world
-learning how to use git
+
+These are updates I am making to the readme file
+
+Have a good day!
